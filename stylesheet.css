@@ -1,0 +1,12 @@
+body {
+    background-color:floralwhite;
+}
+
+p {
+    font-size: large;
+}
+
+img {
+    max-width: 99%;
+    max-height: 99%;
+}
